@@ -28,6 +28,10 @@ the hall ticket to the applicants. The applicants can download the hall tickets 
 
 <img width="1021" height="735" alt="image" src="https://github.com/user-attachments/assets/28cd5ccf-0155-47a6-acd7-d8bba0562587" />
 
+
+
+
+
 <img width="1023" height="731" alt="image" src="https://github.com/user-attachments/assets/dcb8a6e7-9d63-440b-99ca-e42f19dae130" />
 
 ### RESULT:
